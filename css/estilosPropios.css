@@ -1,0 +1,80 @@
+item1 { grid-area: header; }
+.item2 { grid-area: menu; }
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
+.item5 { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header'
+    'main'
+    'footer';
+  gap: 5px;
+  background-color: #DDD;
+  padding: 2px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.521);
+  text-align: center;
+  padding: 2 0;
+  font-size: 20px;
+}
+
+.carousel-inner img {
+  width: 34vw;
+  height: 50vh;
+}
+
+.bloqueDecorativo {
+  width: 33vw;
+  height: 15vh;
+}
+
+.bloqueEtiqueta {
+  display: block;
+  width: 44vw;
+  height: 12vh;
+  
+  text-align: center;
+}
+
+.amarillo {
+  background-color: rgb(238, 255, 0);
+}
+
+.blanco {
+  background-color: rgb(255, 2555, 255);
+}
+
+.imgCarousel {
+  width: 33vw;
+  height: 50vh;
+}
+
+#carouselInventario,#carouselVentas {
+  width: 33vw;
+}
+
+#carouselInventarioPrevio,#carouselVentasPrevio {
+  width: 33vw;
+}
+
+#carouselInventarioPosterior,#carouselVentasPosterior {
+  width: 33vw;
+}
+
+#banner {
+  width:100vw;
+  font: 100px sans-serif;
+  color:white;
+  height: 50vh;
+  text-align: center;
+  background-color:#FFF4A3;
+  background-image: url('../img/banner.png');
+}
+
+p > a {
+  font: 30px sans-serif;
+}
