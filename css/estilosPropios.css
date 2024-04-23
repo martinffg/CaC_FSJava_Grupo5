@@ -19,7 +19,7 @@ item1 { grid-area: header; }
   background-color: rgba(255, 255, 255, 0.521);
   text-align: center;
   padding: 2 0;
-  font-size: 20px;
+  font-size: 5vw;
 }
 
 .carousel-inner img {
@@ -66,15 +66,17 @@ item1 { grid-area: header; }
 }
 
 #banner {
-  width:100vw;
-  font: 100px sans-serif;
+  font-size:10vw;
+  font: 8vw sans-serif;
   color:white;
-  height: 50vh;
   text-align: center;
   background-color:#FFF4A3;
   background-image: url('../img/banner.png');
+  width:100vw;
+  height: 50vh;
+  padding: 2px;
 }
 
 p > a {
-  font: 30px sans-serif;
+  font: 2vw sans-serif;
 }
