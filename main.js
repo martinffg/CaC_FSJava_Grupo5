@@ -1,16 +1,10 @@
 
 
 // INPUTS DEL FORM
-const menuIcon = document.getElementById('menu');
-const navMenu = document.getElementById('nav');
+
 const loginUsername = document.getElementById("usernameLog");
 const loginPassword = document.getElementById("passwordLog");
 
-
-menuIcon.addEventListener('click', function() {
-  navMenu.classList.toggle('menuMobileActive');
-  document.body.classList.toggle('no-scroll');
-});
 // USUARIO FALSO
 
 let usuarioFalso = [
