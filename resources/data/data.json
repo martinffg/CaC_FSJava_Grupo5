@@ -1,0 +1,212 @@
+[
+  {
+    "nombre": "Fallout 4",
+    "precio": 4.8,
+    "descargas": 85,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/fallout-4/C3KLDKZBHNCZ/0001",
+    "urlImg": "../assets/fallout.png"
+  },
+  {
+    "nombre": "Cereza",
+    "precio": 3.8,
+    "descargas": 55,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?cherry"
+  },
+  {
+    "nombre": "Durazno",
+    "precio": 2.4,
+    "descargas": 70,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?peach"
+  },
+  {
+    "nombre": "Kiwi",
+    "precio": 2.9,
+    "descargas": 65,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?kiwi"
+  },
+  {
+    "nombre": "Granada",
+    "precio": 4.5,
+    "descargas": 45,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?pomegranate"
+  },
+  {
+    "nombre": "Melocotón",
+    "precio": 3.0,
+    "descargas": 75,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?peach"
+  },
+  {
+    "nombre": "Mora",
+    "precio": 3.3,
+    "descargas": 60,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?blackberry"
+  },
+  {
+    "nombre": "Mandarina",
+    "precio": 1.5,
+    "descargas": 95,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?tangerine"
+  },
+  {
+    "nombre": "Ciruela",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?plum"
+  },
+  {
+    "nombre": "Frutilla",
+    "precio": 4.2,
+    "descargas": 50,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?strawberry"
+  },
+  {
+    "nombre": "Limón",
+    "precio": 4.8,
+    "descargas": 85,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?lemon"
+  },
+  {
+    "nombre": "Cereza",
+    "precio": 3.8,
+    "descargas": 55,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?cherry"
+  },
+  {
+    "nombre": "Durazno",
+    "precio": 2.4,
+    "descargas": 70,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?peach"
+  },
+  {
+    "nombre": "Kiwi",
+    "precio": 2.9,
+    "descargas": 65,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?kiwi"
+  },
+  {
+    "nombre": "Granada",
+    "precio": 4.5,
+    "descargas": 45,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?pomegranate"
+  },
+  {
+    "nombre": "Melocotón",
+    "precio": 3.0,
+    "descargas": 75,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?peach"
+  },
+  {
+    "nombre": "Mora",
+    "precio": 3.3,
+    "descargas": 60,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?blackberry"
+  },
+  {
+    "nombre": "Mandarina",
+    "precio": 1.5,
+    "descargas": 95,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?tangerine"
+  },
+  {
+    "nombre": "Ciruela",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?plum"
+  },
+  {
+    "nombre": "Frutilla",
+    "precio": 4.2,
+    "descargas": 50,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?strawberry"
+  },
+  {
+    "nombre": "Limón",
+    "precio": 4.8,
+    "descargas": 85,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?lemon"
+  },
+  {
+    "nombre": "Cereza",
+    "precio": 3.8,
+    "descargas": 55,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?cherry"
+  },
+  {
+    "nombre": "Durazno",
+    "precio": 2.4,
+    "descargas": 70,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?peach"
+  },
+  {
+    "nombre": "Kiwi",
+    "precio": 2.9,
+    "descargas": 65,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?kiwi"
+  },
+  {
+    "nombre": "Granada",
+    "precio": 4.5,
+    "descargas": 45,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?pomegranate"
+  },
+  {
+    "nombre": "Melocotón",
+    "precio": 3.0,
+    "descargas": 75,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?peach"
+  },
+  {
+    "nombre": "Mora",
+    "precio": 3.3,
+    "descargas": 60,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?blackberry"
+  },
+  {
+    "nombre": "Mandarina",
+    "precio": 1.5,
+    "descargas": 95,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?tangerine"
+  },
+  {
+    "nombre": "Ciruela",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?plum"
+  },
+  {
+    "nombre": "Frutilla",
+    "precio": 4.2,
+    "descargas": 50,
+    "urlDownload": "#",
+    "urlImg": "https://source.unsplash.com/200x200?strawberry"
+  }
+]
