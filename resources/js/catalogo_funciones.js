@@ -20,7 +20,7 @@ function insertarCard(juego, i, juegos) {
     const urlImg = juego.urlImg;
        
     divCard.innerHTML = `
-       <a href="${juego.urlDownload}"><img src=${juego.urlImg}/></a> 
+       <a href="${juego.urlDownload}"><img src="${juego.urlImg}" alt="Imagen del juego ${nombre}"></a> 
        <h2>${nombre}</h2>
        <p>Precio USD: ${precio}</p>
        <p>Descargas: ${descargas}</p>`;
