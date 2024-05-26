@@ -5,7 +5,7 @@ async function cargarDatos() {
   const response = await fetch("../data/data.json");
   juegos = await response.json();
   mostrarPorPantalla(juegos);
-  juegos.forEach(insertarCard);
+  //juegos.forEach(insertarCard);
 }
 
 cargarDatos()
